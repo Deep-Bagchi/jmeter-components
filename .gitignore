@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+*.classpath
+*.project
+*.settings
+.idea/
+*.iml
+target
